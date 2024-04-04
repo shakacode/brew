@@ -1,8 +1,8 @@
 class CurlImpersonate < Formula
   desc "Impersonate version of curl"
   homepage "https://github.com/lwthiker/curl-impersonate"
-  url "https://github.com/lwthiker/curl-impersonate/archive/refs/tags/v0.6.0-alpha.1.tar.gz"
-  sha256 "b6e6ae6a418695f2fb8f45a36540866a958a5070fa4c2c54849d6946ed5eae10"
+  url "https://github.com/lwthiker/curl-impersonate/archive/refs/tags/v0.6.1.tar.gz"
+  sha256 "b89e055074d202aa457d2479a4b33f6a67e3e36a7bf4588755a9c97b3dd824ac"
   license "MIT"
 
   depends_on "autoconf" => :build
